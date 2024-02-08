@@ -36,7 +36,7 @@
 - Suivre la barre de santé .
 - Pour passer au niveau suivant, accédez avec succès à la sortie .
 
-# Notre etonnement 
+# Notre étonnement 
 - Nous avons été surpris par la complexité du code nécessaire pour implémenter certaines fonctionnalités du jeu,
 et aussi par la simplicité de certaines solutions.
 
